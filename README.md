@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46f2113a-cdd1-47ee-b5ec-c7f33d77e4f0" />
+
 Sales Insights Dashboard (Power BI + SQL)
 Project Overview
 
